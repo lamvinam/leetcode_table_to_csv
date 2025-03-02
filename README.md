@@ -4,4 +4,6 @@
 
 
 2. Run Jupyter Notebook, open convert_markdown_table_to_csv.ipynb  to remove all the markdown symbols (i.e. '|' and '-' and whitespaces)
+   - Required Python
+   - Required Python libraries:  Path, pandas
 3. The output  would be in standard csv format.
